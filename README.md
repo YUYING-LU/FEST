@@ -4,7 +4,8 @@ The real data are stroed in two different sites: (1) Brigham Women’s Hospital 
 In file 'density_result.csv', the first column represents the estimation of $\boldsymbol{\xi}^{(1)}$ while the second one represents the estimation of $\hat{\boldsymbol{\xi}}^{(2)}$.
 
 ### Phenotying Model
-In file 'theta_s_result.csv', the first column represents the estimation of $\boldsymbol{\theta}_{\mathcal{T}}$ while the second one represents $\boldsymbol{\theta}_{\mathcal{S}}^{(2)}$.
+
+In file 'delta_result.csv', the first column represents the estimation of $\boldsymbol{\theta}_\mathcal S^{(1)}$ while the second one represents $\boldsymbol{\theta}^{(2)}_{\mathcal S}$.
 
 In file 'delta_result.csv', the first column represents the estimation of $\boldsymbol{\delta}^{(1)}$ while the second one represents $\boldsymbol{\delta}^{(2)}$.
 
