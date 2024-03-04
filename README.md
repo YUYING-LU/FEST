@@ -6,7 +6,7 @@ In file 'density_result.csv', the first column represents the parameter $\boldsy
 ### Phenotying Model
 In file 'delta_result.csv', the first column represents the parameter $\boldsymbol{\delta}^{(1)}$ while the second one represents $\boldsymbol{\delta}^{(2)}$.
 
-In file 'theta_result.csv', the column represents the parameter $\boldsymbol{\theta}_{\mathcal{T}}$ in the phenotying model $m(\mathbf{Z},\boldsymbol{\theta}_{\mathcal{T}})$ for target population.
+In file 'theta_result.csv', the column represents the parameter $\boldsymbol{\theta_{\mathcal{T}}}$ in the phenotying model $m(\mathbf{Z},\boldsymbol{\theta_{\mathcal{T}}})$ for target population.
 
 ### Prediction Model
 In file 'beta_result.csv', the column represents the parameter $\boldsymbol{\beta}$ in the risk prediction model for target population.
